@@ -1,0 +1,65 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header Styles */
+header {
+    background: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2rem;
+}
+
+/* Image Styling */
+.image-container {
+    margin: 20px 0;
+}
+
+.styled-image {
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid #007BFF;
+    border-radius: 10px;
+}
+
+/* Content Section */
+#subheading {
+    color: #0056b3;
+    font-size: 1.5rem;
+}
+
+.content p {
+    font-size: 1.2rem;
+    padding: 10px;
+    background: white;
+    border-left: 5px solid #007BFF;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+}
+
+/* Footer Styles */
+footer {
+    background: #222;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ffdd57;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
